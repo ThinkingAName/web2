@@ -29,9 +29,6 @@
     <servlet-name>QueryAllStudent</servlet-name>
     <servlet-class>com.webapp.servlet.QueryAllStudent</servlet-class>
   </servlet>
-
-
-  
   <servlet-mapping>
       <servlet-name>QueryOnlyOne</servlet-name>
       <url-pattern>/QueryOnlyOne</url-pattern>

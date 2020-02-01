@@ -33,5 +33,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
       <a href="/web2/registerStudent.html">点击注册用户</a>
   </form>  
   </center>
+  <a href="https://www.cnblogs.com/sky-z/p/4654987.html">点击查看原文章</a>
   </body>
 </html>
